@@ -1,4 +1,4 @@
-﻿[
+﻿
     {
         "title": "LA County Trivia",
         "path": "proto-config",
@@ -10,4 +10,3 @@
         "minZoom": 10,
         "maxZoom": 15
     }
-]

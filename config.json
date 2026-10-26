@@ -6,8 +6,8 @@
         "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/survey123_b06abfcc4d6d40929d49d0a639757ef8_results/FeatureServer/0",
         "introImage": "./GeoGuessrImage_LACounty.png",
         "initCenter": [-118.247604, 34.058194],
-        "homeZoom": 12,
-        "minZoom": 12,
+        "homeZoom": 11,
+        "minZoom": 11,
         "maxZoom": 16
     }
 
